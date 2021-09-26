@@ -10,7 +10,7 @@ As an **engineer**, my favorite social pastime is solving escape rooms with my f
 
 As an aspiring **Product Manager**, I prioritize the personal growth for each of my team members on the same level as the objectives of a given project. I enjoy going to escape rooms with different groups, each time adapting to the new dynamics. I search for possible ways to fully engage each member with tasks that interest them and challenge them so slightly with tasks that they did not think they could accomplish. [Contact]("github.com/kylenzhong/CSE110-Pages-/blob/vscode-UI/index.md#contact") me if you are interested in connecting!
 
-Check out a [picture]("20210918_170412.jpg") of me
+Check out a [picture]("./20210918_170412.jpg") of me
 
 ## Inspiration
 I am inspired by the works of Steve Jobs, and my favorite quote from him is:
