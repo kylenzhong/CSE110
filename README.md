@@ -1,2 +1,2 @@
-"This is a dfiferent version from VSCode"
-My favorite 
+This is my main page:
+https://kylenzhong.github.io/CSE110-Pages-/
