@@ -24,8 +24,22 @@ while(isHunry and isFoolish):
 
 return "A Life Well Lived"
 ```
+## Goals
+This is the bucketlist for my last year in SD:
+- [ ] Surfing
+- [ ] Paragliding
+- [ ] Cliff Diving :O
+
+Here are some skills that I want to learn:
+ - Public speaking
+ - Film Production
+ - Event organization
+
 
 ## Contact
-Find me on [Linkedin]("linkedin.com/in/kylenzhong"), [Github](github.com/kylenzhong), [Instagram](instagram.com/kaywhyzee/),
+Find me on:
+1. [Linkedin]("linkedin.com/in/kylenzhong")
+2. [Github](github.com/kylenzhong)
+3. [Instagram](instagram.com/kaywhyzee/)
 
 
