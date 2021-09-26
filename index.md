@@ -26,9 +26,9 @@ return "A Life Well Lived"
 ```
 ## Goals
 This is the bucketlist for my last year in SD:
-- [ ] Surfing
-- [ ] Paragliding
-- [ ] Cliff Diving :O
+-  [ ] Surfing
+-  [ ] Paragliding
+-  [ ] Cliff Diving :O
 
 Here are some skills that I want to learn:
  - Public speaking
