@@ -1,4 +1,4 @@
-                                             # Kyle Zhong's User Page
+# Kyle Zhong's User Page
                                          
 ## Intro
 
